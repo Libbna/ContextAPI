@@ -1,0 +1,15 @@
+.Nav {
+  width: 100%;
+  background-color: #600785;
+  padding: 20px;
+}
+
+h2 {
+  color: white;
+  font-size: xx-large;
+  padding-bottom: 20px;
+}
+
+p {
+  color: white;
+}
